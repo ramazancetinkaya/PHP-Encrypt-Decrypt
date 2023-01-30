@@ -1,4 +1,4 @@
-# PHP Encryption Decryption
+# Encryption Decryption
 An example of a class that encrypts and decrypts data using the OpenSSL library in PHP.
 
 This class uses the OpenSSL library to perform encryption and decryption operations. The class takes three parameters in its constructor: the encryption algorithm to use, the encryption key and the initialization vector (IV). It has two methods **encrypt** and **decrypt**.
